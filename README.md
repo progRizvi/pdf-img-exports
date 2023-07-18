@@ -14,7 +14,7 @@ You can also install the package globally via `npm i -g pdf-export-images` to ru
 ## Programatic use
 install
 ```sh
-npm i pdf-export-images
+npm i pdf-img-exports
 ```
 
 `script.js`
