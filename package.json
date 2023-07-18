@@ -1,0 +1,32 @@
+{
+  "name": "pdf-img-exports",
+  "version": "1.0.0",
+  "description": "exports images from a pdf file to disk via CLI",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "image",
+    "extract",
+    "export",
+    "cli",
+    "png",
+    "fonts",
+    "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/progRizvi/pdf-img-exports"
+  },
+  "author": "Rizvi Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "font-converter": "^1.1.1",
+    "fontforge": "^0.0.4",
+    "pdfjs-dist": "^2.12.313",
+    "sharp": "^0.29.3"
+  }
+}
